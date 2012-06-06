@@ -1,4 +1,3 @@
-
 Residual Energies Contributions
 Copyright (c) 2012, Onur Varol 
 http://onurvarol.com
